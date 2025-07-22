@@ -1,5 +1,5 @@
 ![Banner do perfil](./banner.png)
-<p style="text-align:center"><i>O impossível é só questão de opinião - Charlie Brown Jr.</i></p>
+<p align="center"><i>O impossível é só questão de opinião - Charlie Brown Jr.</i></p>
 
 <!--
 **LucianoKohler/LucianoKohler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

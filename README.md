@@ -2,7 +2,7 @@
 <p align="center"><i>O impossível é só questão de opinião - Charlie Brown Jr.</i></p>
 
 # 👤 Sobre Mim
-  Sudações! Me chamo **Luciano** e estou atualmente desfrutando do curso de **Bacharelado em Ciência da Computação** na [**Universidade do Estado de Santa Catarina** (UDESC)](https://www.udesc.br/) em Joinville - SC.
+  Sudações! Me chamo **Luciano** e estou atualmente desfrutando do curso de **Bacharelado em Ciência da Computação** na [**Universidade do Estado de Santa Catarina** (UDESC)](https://www.udesc.br/) em Joinville - SC (Atualmente no 4° dos 9 semestres). Minhas anotações da faculdade estão disponíveis [**neste repositório**](https://github.com/LucianoKohler/BachareladoEmCienciaDaComputacao)
 
   Anteriormente em 2023, também me formei como **Técnico em Análise e Desenvolvimento de Sistemas** junto com o [**SESI/SENAI**](https://cursos.sesisenai.org.br/) (Juntos agora como Escola S de Referência).
 
@@ -47,9 +47,9 @@
 </p>
 
 # 🛠️ Projetos em Destaque
-- [A Night In The Island](https://github.com/LucianoKohler/a-night-in-the-island): Videogame de mistério e aventura com 100% dos seus gráficos feitos com artes de ASCII, onde tudo é feito com caracteres do teclado  
-- [Comércio Liberado](https://github.com/LucianoKohler/comercio-liberado): Clone do Mercado Livre feito em **React**, utilizando a API do site original para pesquisar os produtos e mostrá-los na tela de forma responsiva
-- [Rede Social de Fotos](https://github.com/LucianoKohler/BachareladoEmCienciaDaComputacao/tree/master/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/TrabalhoRedeSocialFotos): Aplicativo feito em **Java** integrado com um banco de dados em **PostreSQL**, com funcionalidades como seguir usuários, favoritar e criar posts, além de poder alterar suas informações de perfil, tudo com interfaces gráficas intuitivas
+- [A Night In The Island](https://github.com/LucianoKohler/a-night-in-the-island): Videogame de mistério e aventura com 100% dos seus gráficos feitos com artes de ASCII, onde tudo é feito com caracteres do teclado.
+- [Comércio Liberado](https://github.com/LucianoKohler/comercio-liberado): Clone do Mercado Livre feito em **React**, utilizando a API do site original para pesquisar os produtos e mostrá-los na tela de forma responsiva.
+- [Rede Social de Fotos](https://github.com/LucianoKohler/BachareladoEmCienciaDaComputacao/tree/master/POO%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/TrabalhoRedeSocialFotos): Aplicativo feito em **Java** integrado com um banco de dados em **PostreSQL**, com funcionalidades como seguir usuários, favoritar e criar posts, além de poder alterar suas informações de perfil, tudo com interfaces gráficas intuitivas.
 
 # 🎶 Fun Fact
 No meu tempo livre, gosto de praticar no meu violão e um dia, arrancar uns sorrisos dos meus amigos!
